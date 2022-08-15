@@ -1,0 +1,13 @@
+﻿  Header.cpp
+  Source.cpp
+C:\Users\jihad\Desktop\project\Project23\Project23\Header.cpp(295,9): warning C4244: 'return': conversion from 'S' to 'int', possible loss of data
+          with
+          [
+              S=double
+          ]
+C:\Users\jihad\Desktop\project\Project23\Project23\Header.cpp(280): message : while compiling class template member function 'int Vector<double>::remove(int)'
+C:\Users\jihad\Desktop\project\Project23\Project23\Source.cpp(232): message : see reference to function template instantiation 'int Vector<double>::remove(int)' being compiled
+C:\Users\jihad\Desktop\project\Project23\Project23\Source.cpp(8): message : see reference to class template instantiation 'Vector<double>' being compiled
+  Generating Code...
+C:\Users\jihad\Desktop\project\Project23\Project23\Header.cpp(28): warning C4715: 'Vector<double>::operator=': not all control paths return a value
+  Project23.vcxproj -> C:\Users\jihad\Desktop\project\Project23\x64\Debug\Project23.exe
